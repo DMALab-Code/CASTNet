@@ -10,8 +10,6 @@ datasets  --> Raw datasets and preprocessed data
 
 experiments  --> Training scripts.
 
-figures   --> Some figures used in README.
-
 scripts   --> Data preprocessing scripts.
 
 CASTNet/arch      --> The implementation of CASTNet.
